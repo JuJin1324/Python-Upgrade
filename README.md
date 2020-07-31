@@ -14,6 +14,8 @@
 ### 비동기
 * [동기(Synchronous)는 정확히 무엇을 의미하는걸까?](https://evan-moon.github.io/2019/09/19/sync-async-blocking-non-blocking/)
 * [파이썬과 동시성에 대한 정리](https://hamait.tistory.com/833)
+* [asyncio : 단일 스레드 기반의 Nonblocking 비동기 코루틴 완전 정복](https://soooprmx.com/archives/6882)
+* [Python 표준 함수를 asyncio에서 비동기로 호출하는 방법](https://soooprmx.com/archives/8620)
 * [Python 비동기 프로그래밍 제대로 이해하기(1/2) - Asyncio, Coroutine](https://blog.humminglab.io/python-coroutine-programming-1/)
 * [Python 비동기 프로그래밍 제대로 이해하기(2/2) - Asyncio, Coroutine](https://blog.humminglab.io/python-coroutine-programming-2/)
 
